@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file alias="暴雪">pic/暴雪.png</file>
+        <file alias="暴雨">pic/暴雨.png</file>
+        <file alias="查找">pic/查找.png</file>
+        <file alias="大暴雨">pic/大暴雨 .png</file>
+        <file alias="大雪">pic/大雪.png</file>
+        <file alias="大雨">pic/大雨.png</file>
+        <file alias="冻雨">pic/冻雨.png</file>
+        <file alias="多云">pic/多云.png</file>
+        <file alias="浮尘">pic/浮尘.png</file>
+        <file alias="雷阵雨">pic/雷阵雨.png</file>
+        <file alias="雷阵雨伴有冰雹">pic/雷阵雨伴有冰雹.png</file>
+        <file alias="霾">pic/霾.png</file>
+        <file alias="强沙尘暴">pic/强沙尘暴.png</file>
+        <file alias="晴">pic/晴.png</file>
+        <file alias="特大暴雨">pic/特大暴雨.png</file>
+        <file alias="雾">pic/雾.png</file>
+        <file alias="小雪">pic/小雪.png</file>
+        <file alias="小雨">pic/小雨.png</file>
+        <file alias="扬沙">pic/扬沙.png</file>
+        <file alias="阴">pic/阴.png</file>
+        <file alias="雨夹雪">pic/雨夹雪.png</file>
+        <file alias="阵雪">pic/阵雪.png</file>
+        <file alias="阵雨">pic/阵雨.png</file>
+        <file alias="中雪">pic/中雪.png</file>
+        <file alias="中雨">pic/中雨.png</file>
+        <file alias="icon">pic/icon.ico</file>
+        <file alias="UI0">pic/UI.png</file>
+        <file alias="UI1">pic/UI1.png</file>
+        <file alias="UI2">pic/UI2.png</file>
+        <file alias="UI3">pic/UI3.png</file>
+        <file alias="update">pic/update.png</file>
+        <file alias="update_on">pic/update_on.png</file>
+    </qresource>
+</RCC>
